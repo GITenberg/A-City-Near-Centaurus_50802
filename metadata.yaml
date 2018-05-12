@@ -1,10 +1,16 @@
 _repo: A-City-Near-Centaurus_50802
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 50802-h/images/cover.jpg
 creator:
   author:
     agent_name: Doede, Bill
     gutenberg_agent_id: '46090'
     url: http://www.gutenberg.org/2009/agents/46090
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/50802#A-City-Near-Centaurus
 gutenberg_bookshelf: Science Fiction
 gutenberg_issued: '2015-12-31'
 gutenberg_type: Text
